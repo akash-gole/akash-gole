@@ -84,6 +84,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/akash-gole/akash-gole/output/snake.svg" alt="Snake animation" />
-
-###
